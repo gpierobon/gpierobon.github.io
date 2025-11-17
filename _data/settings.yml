@@ -1,0 +1,52 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Projects', url: ''}
+- {name: 'About',    url: 'about'}
+
+#-------------------------------
+# Projects Section
+
+projects:
+- {name: 'Cosmic neutrinos and NMR',   url: 'opennu'}
+- {name: 'Dark matter searches<br> with microwave cavities',   url: 'haloscopes'}
+#- {name: 'The small scale structure <br> of axion dark matter', url: 'miniclusters'}
+#- {name: 'Relativistic field simulations <br>of axion dark matter',   url: 'axionstrings'}
+#- {name: 'Large scale structure simulations<br> and neutrinos',   url: 'hdm'}
+
+#-------------------------------
+# Contact Section
+
+social:
+  - { icon: 'github',   link: 'https://github.com/gpierobon' }
+  - { icon: 'linkedin', link: 'https://www.linkedin.com/in/giovanni-pierobon' }
+  - { icon: 'envelope', link: 'mailto:tanogp@protonmail.com' }
+
+
+
+#seo:
+#  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+#  rel-author: 'https://plus.google.com/u/0/#'
+#  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+#google-analytics-ua: 
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+#disqus:
+#  comments: false
+#  disqus_shortname: ''
+
+
+#footer:
+ 
