@@ -1,17 +1,13 @@
 .project-container
-  display: grid
-  grid-template-columns: repeat(auto-fit, minmax(600px, 1fr))
-  gap: 30px
-  max-width: 1400px
-  margin: 0 auto
+  max-width: 750px
+  margin: 0px auto 0px
   padding: 30px
   +clearfix
   .project-unit
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
     cursor: pointer
     display: block
-    width: 100%
-    //width: 600px
+    width: 600px
     height: 300px
     margin: 0px auto 30px
     position: relative
@@ -40,9 +36,9 @@
     &:hover .project-overlay
       +position(absolute, 0px 0px null 0px)
 
-@media (max-width: 1800px)
+@media (max-width: 768px)
   .project-container
-    max-width: 150vw
+    max-width: 80vw
     .project-unit
-      width: 150vw
+      width: 80vw
       height: 40vw
