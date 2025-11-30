@@ -30,7 +30,7 @@ We solve the master equation for the reduced density matrix in the presence of c
 Below, effects of local interactions such as dephasing are visualised in the Dicke basis $$\vert j, m\rangle$$ as a loss of coherence.
 
 <br>
-Starting from the <strong>Equatorial Coherent Spin State</strong> $$\vert{\rm ECSS}\rangle=\frac{1}{\sqrt{2}}\Pi (\vert \downarrow\rangle+\vert\uparrow\rangle)$$:
+Starting from the <strong>Equatorial Coherent Spin State</strong> $$\vert{\rm ECSS}\rangle=\frac{1}{\sqrt{2}}\Pi (\vert \downarrow\rangle+\vert\uparrow\rangle)$$
 
 {% include image2.html image="projects/opennu/dicke2.gif" %}
 

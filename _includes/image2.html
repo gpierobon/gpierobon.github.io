@@ -1,9 +1,8 @@
-
-
-<div class="image-container">
+<div class="image-container" style="max-width: {{ include.max_width | default: '100%' }};">
   <img
     src="/assets/img/{{ include.image }}"
-    width="200" height="100"
+    width="{{ include.width | default: '200' }}"
+    height="{{ include.height | default: '100' }}"
     class="image"
     alt="{{ include.alt | default: 'Project image' }}">
 </div>

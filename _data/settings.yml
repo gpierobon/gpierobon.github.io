@@ -9,11 +9,11 @@ menu:
 # Projects Section
 
 projects:
+#- {name: 'Quantum spin squeezing and cosmic relics',   url: 'squeezing'}
 - {name: 'Cosmic neutrinos and NMR',   url: 'opennu'}
 - {name: 'Dark matter searches<br> with microwave cavities',   url: 'haloscopes'}
-#- {name: 'The small scale structure <br> of axion dark matter', url: 'miniclusters'}
-#- {name: 'Relativistic field simulations <br>of axion dark matter',   url: 'axionstrings'}
-#- {name: 'Large scale structure simulations<br> and neutrinos',   url: 'hdm'}
+- {name: 'The small scale structure <br> of axion dark matter', url: 'miniclusters'}
+- {name: 'Large scale structure simulations<br> and neutrinos',   url: 'hdm'}
 
 #-------------------------------
 # Contact Section

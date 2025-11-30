@@ -22,7 +22,7 @@ title: About
 
     A list of my works can be publicly found on the <a href="https://inspirehep.net/authors/1774791?ui-citation-summary=true">inspirehep</a> database,
     and a full version of my CV can be found in
-    <a href="/assets/cv.pdf">PDF</a>.
+    <a href="/assets/cv.pdf">PDF</a>. <br> A copy of my <a href="https://unsworks.unsw.edu.au/entities/publication/f3669eb0-63bf-4989-a9a7-6840bf9407a8" >PhD thesis</a> can be downloaded from the UNSW digital library. 
   </div>
 
   <div style="flex: 0 0 170px;">
