@@ -9,7 +9,7 @@ menu:
 # Projects Section
 
 projects:
-#- {name: 'Quantum spin squeezing and cosmic relics',   url: 'squeezing'}
+- {name: 'Quantum spin squeezing and cosmic relics',   url: 'squeezing'}
 - {name: 'Cosmic neutrinos and NMR',   url: 'opennu'}
 - {name: 'Dark matter searches<br> with microwave cavities',   url: 'haloscopes'}
 - {name: 'The small scale structure <br> of axion dark matter', url: 'miniclusters'}
