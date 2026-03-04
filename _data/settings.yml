@@ -20,6 +20,7 @@ projects:
 
 social:
   - { icon: 'github',   link: 'https://github.com/gpierobon' }
+  - { icon: 'gitlab',   link: 'https://gitlab.com/gpierobon' }
   - { icon: 'linkedin', link: 'https://www.linkedin.com/in/giovanni-pierobon' }
   - { icon: 'envelope', link: 'mailto:tanogp@protonmail.com' }
 
