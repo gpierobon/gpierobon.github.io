@@ -60,6 +60,7 @@ Here follows an incomplete list of recent presentations.
 
 #### Invited seminars
 
+- *University of Queensland*, Brisbane, March **2026**
 - *Korea Institue for Advanced Studies (KIAS)*, Seoul, November **2025** [(Video)](https://www.youtube.com/watch?v=NMDLzl0ruZk") 
 - *University of Zaragoza*, Zaragoza (Spain), September **2025**
 - *University of Bielefeld*, Theoretical physics group, Bielefeld (Germany), September **2025**
@@ -69,6 +70,7 @@ Here follows an incomplete list of recent presentations.
 
 #### Invited and contributed talks at conferences
 
+- *MADMAX collaboration meeting*, Hamburg, March **2026**
 - *Institute for Nuclear Theory, UW*, Seattle (USA), December **2025**
 - *20th Patras meeting*, Tenerife (Spain), September **2025**
 - *19th Patras meeting*, Patras (Greece), September **2024**
