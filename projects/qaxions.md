@@ -19,7 +19,7 @@ interface with existing analysis workflows without leaving Python. `qaxions` is
 intended as a flexible and accessible entry point for researchers
 looking to explore ultralight dark matter dynamics on modern hardware.
 
-Check out the online [documentation](https://qaxions-8f911f.gitlab.io/) and the source code
+Check out the online [documentation](https://gpierobon.github.io/qaxions) and the source code
  <a href="https://gitlab.com/gpierobon/qaxions" target="_blank"><i class="fa fa-gitlab" aria-hidden="true"></i></a>
 <br> 
 
