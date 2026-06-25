@@ -8,21 +8,11 @@ title: About
 <div style="display: flex; align-items: flex-start; gap: 5px;">
 
   <div style="flex: 1;">
-    I am currently a research associate at the University of New South Wales and the
-    Sydney <a href="https://www.sydney-cppc.org/">CPPC</a> group, living in northern NSW.<br>
+  I am a physicist and research computing specialist, currently at UNSW Sydney. My background is in high-energy physics and early Universe cosmology. Over the years that work has pulled me deep into the computing side: building and optimising simulation software, running large-scale jobs across HPC facilities. I am as comfortable talking about physics as I am about infrastructure, which is a combination I find increasingly useful as research becomes more computationally demanding.
 
-    I have been working in high-energy particle physics and early Universe cosmology
-    during my PhD, with a focus on dark matter and neutrino simulations, and my current
-    interests are:
-
-    <ul>
-      <li><strong>Open quantum systems</strong> and applications to weakly interacting particles</li>
-      <li>Numerical methods and <strong>high-performance computing</strong>: high-throughput and hardware acceleration</li>
-    </ul>
-
-    A list of my works can be publicly found on the <a href="https://inspirehep.net/authors/1774791?ui-citation-summary=true">inspirehep</a> database,
-    and a full version of my CV can be found in
-    <a href="/assets/cv.pdf">PDF</a>. <br> A copy of my <a href="https://unsworks.unsw.edu.au/entities/publication/f3669eb0-63bf-4989-a9a7-6840bf9407a8" >PhD thesis</a> can be downloaded from the UNSW digital library. 
+<br>
+<br>
+    A list of my works can be publicly found on the <a href="https://inspirehep.net/authors/1774791?ui-citation-summary=true">inspirehep</a> database, while a copy of my <a href="https://unsworks.unsw.edu.au/entities/publication/f3669eb0-63bf-4989-a9a7-6840bf9407a8" >PhD thesis</a> can be downloaded from the UNSW digital library. 
   </div>
 
   <div style="flex: 0 0 170px;">
@@ -33,28 +23,7 @@ title: About
 
 </div>
 
-{% comment %}
-I am currently a research associate at the University of New South Wales and the Sydney [CPPC](https://www.sydney-cppc.org/) group, currently living in northern NSW. <br>
-I have been working in high-energy particle physics and early Universe cosmology during my PhD, with a focus on dark matter<br> 
-and neutrino simulations, and my current interests are:
 
-- <strong>Open quantum systems</strong> and applications to weakly interacting particles
-- Numerical methods and <strong>high-performance computing</strong>: high-throughput and hardware acceleration
-
-
-
-<!--`C/C++`, `python`-->
-
-A list of my works can be publicly found on the [inspirehep](https://inspirehep.net/authors/1774791?ui-citation-summary=true) database, and a full version of my CV can be found in [PDF](/assets/CV.pdf).
-{% endcomment %}
-
-<br>
-<br>
-
-{% comment %}
-I have been invited to present seminar talks at several institutions and I have contributed at international conferences <br>
-and leading workshops since the start of my PhD. 
-{% endcomment %}
 
 Here follows an incomplete list of recent presentations. 
 
