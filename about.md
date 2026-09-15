@@ -8,11 +8,13 @@ title: About
 <div style="display: flex; align-items: flex-start; gap: 5px;">
 
   <div style="flex: 1;">
-  I am a physicist and research computing specialist, currently at UNSW Sydney. My background is in high-energy physics and early Universe cosmology. Over the years that work has pulled me deep into the computing side: building and optimising simulation software, running large-scale jobs across HPC facilities. I am as comfortable talking about physics as I am about infrastructure, which is a combination I find increasingly useful as research becomes more computationally demanding.
+I'm a data scientist and research computing specialist with a background in theoretical and computational physics. Over 6+ years at UNSW Sydney, I've built large-scale simulation and analysis pipelines, running distributed workloads across thousands of CPU cores and several TBs of RAM, then extracting robust estimates from tens of GB of output data. Such work has directly reshaped the search strategy and planning of several next-generation physics experiments.
+
+I'm equally comfortable at both ends of the pipeline: building dashboards and custom visualizations to make results usable, and optimizing and automating the infrastructure (Python, C++, Linux, Cloud, CI/CD) that makes large-scale data work possible in the first place. On the side, I enjoy building data and monitoring tools and apps with Python, SQL, and Streamlit.  
 
 <br>
 <br>
-    A list of my works can be publicly found on the <a href="https://inspirehep.net/authors/1774791?ui-citation-summary=true">inspirehep</a> database, while a copy of my <a href="https://unsworks.unsw.edu.au/entities/publication/f3669eb0-63bf-4989-a9a7-6840bf9407a8" >PhD thesis</a> can be downloaded from the UNSW digital library. 
+    A list of my research works can be publicly found on the <a href="https://inspirehep.net/authors/1774791?ui-citation-summary=true">inspirehep</a> database, while a copy of my <a href="https://unsworks.unsw.edu.au/entities/publication/f3669eb0-63bf-4989-a9a7-6840bf9407a8" >PhD thesis</a> can be downloaded from the UNSW digital library. 
   </div>
 
   <div style="flex: 0 0 170px;">
@@ -23,9 +25,7 @@ title: About
 
 </div>
 
-
-
-Here follows an incomplete list of recent presentations. 
+Over the years I've had the opportunity to speak at invited seminars, workshops, and conferences, presenting technical work to audiences ranging from specialist researchers to broader scientific communities. Below is a selection of recent talks.
 
 #### Invited seminars
 
