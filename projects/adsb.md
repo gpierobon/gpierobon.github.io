@@ -5,9 +5,13 @@ tags: ["python", "streamlit", "data-viz", "plotly"]
 summary: "A live monitoring dashboard for a home ADS-B receiver — tracking, visualizing, and reporting on aircraft traffic in real time."
 ---
 
- <div style="display: flex; gap: 10px;">
-  {% include image2.html image="projects/adsb/dist.png" max_width="80%" %}
-  {% include image2.html image="projects/adsb/map.png" max_width="80%" %}
+<div style="display: flex; gap: 10px; align-items: flex-end;">
+  <div style="flex: 1;">
+    {% include image2.html image="projects/adsb/dist.png" max_width="100%" %}
+  </div>
+  <div style="flex: 1;">
+    {% include image2.html image="projects/adsb/map.png" max_width="100%" %}
+  </div>
 </div>
 
 A live monitoring dashboard for a home ADS-B receiver. Tracking, visualizing, and reporting on aircraft traffic in real time.
